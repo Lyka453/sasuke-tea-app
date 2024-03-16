@@ -1,0 +1,27 @@
+{
+  "name": "sasuke-tea-app",
+  "version": "1.0.0",
+  "description": "Testnet-sasuke-tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lyka453/sasuke-tea-app.git"
+  },
+  "dependencies": {
+    "earn_378_tea": "1.0.0",
+    "application787": "1.0.0",
+    "tea-narnian808": "1.0.0",
+    "polina_9056tyy": "1.0.0",
+    "dodatok_team-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyka453/sasuke-tea-app/issues"
+  },
+  "homepage": "https://github.com/Lyka453/sasuke-tea-app#readme"
+}
